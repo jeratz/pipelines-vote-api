@@ -1,6 +1,1 @@
-e# tekton-pipelines-demo
-
-test
-s
-gs
-a
+# tekton-pipelines-demo
