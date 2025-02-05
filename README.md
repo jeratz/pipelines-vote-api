@@ -2,4 +2,4 @@ e# tekton-pipelines-demo
 
 test
 s
-g
+gs
